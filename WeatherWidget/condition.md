@@ -1,24 +1,24 @@
-# Погодное одностраничное веб-приложение
+# Weather widget SPA
 
-## Технологии
+## Technologies
 - React + Redux
 - Less | Sass
 - Bootstrap | [Rmwc](https://github.com/jamesmfriedman/rmwc)
 - Webpack
 
-## Задание
-Напасать SPA для отображения текущей погоды.
+## Task
+Develop a SPA to display the current weather.
 
-Приложение должно уметь:
-- Автоматически определять местоположение пользователя и выводить погоду в его городе
-- Иметь возможность добавлять/удалять города
-- Сохранять настройки локально
+The application should be able to:
+- Automatically determine the location of the user and display the weather in his city
+- Add/Remove cities
+- Save settings locally
 
-Данные можно брать с [openweathermap.org](https://openweathermap.org/) или с любого другого сервиса.
+Data can be taken from [openweathermap.org](https://openweathermap.org/) or from any other service.
 
-### Результат
-Код должен лежать в репозитоии на [github.com](https://github.com/).
+### Result
+The code must be in the repository on [github.com](https://github.com/).
 
-Приложение должно стартовать по команде `npm start`;
+The application must start on command `npm start`;
 
-Для демонстрации работы можно захостить на [heroku](https://heroku.com) (по желанию).
+To demonstrate the work you can host on [heroku](https://heroku.com) (optional).
